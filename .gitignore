@@ -1,0 +1,26 @@
+# IntelliJ project files
+.idea/*
+.idea/
+*/iml
+out
+gen
+
+#Works folders
+
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
